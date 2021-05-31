@@ -1,0 +1,1 @@
+Hal ini tidak akan berhasil karena val adalah alias ke elemen sebenarnya dalam data dan menempatkan objek baru ke dalamnya hanya akan mengubah nilai val
