@@ -1,0 +1,3 @@
+Salah satu komponennya adalah pengenalan bahasa sehingga mewarnai kode dengan tepat.
+metodenya termasuk memeriksa ekstensi file. Jika ekstensi file tidak dimasukkan, itu akan
+gunakan skema kode warna default pada teks.

@@ -1,0 +1,2 @@
+Dapat beradaptasi berarti kode tersebut fleksibel sehingga dapat dijalankan di berbagai jenis perangkat keras dan berbeda
+sistem operasi. Sebuah perusahaan harus mampu merespon dengan cepat ketika lingkungan berubah
